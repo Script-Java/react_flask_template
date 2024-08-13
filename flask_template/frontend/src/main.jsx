@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { HomePage } from './pages/home';
+import { NotFoundPage } from './pages/notfound';
 
 import './index.css'
 import 'preline';
