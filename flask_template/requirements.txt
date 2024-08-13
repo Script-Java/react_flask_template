@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+python-dotenv
+Flask-Login
+Authlib
+Werkzeug
+PyJWT
