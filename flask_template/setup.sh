@@ -9,6 +9,10 @@ pip install -r requirements.txt
 # Set up the frontend (React with Vite)
 cd ../frontend
 npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install preline
+npm install react-router-dom
 
 echo "Setup complete. To start the development server:"
 echo "1. Activate the Flask virtual environment: source backend/venv/bin/activate"
