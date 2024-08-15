@@ -4,7 +4,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Script-Java/react_flask_template.git
-   cd flask_template
+   cd react_flask_template
    ```
 
 2. Set up a virtual environment and install Flask dependencies:
